@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning .NET
+- 📫 How to reach me: hzh990094740@outlook.com / 990094740@qq.com
+
 <!--
 **izanhzh/izanhzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
